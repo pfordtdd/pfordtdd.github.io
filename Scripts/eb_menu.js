@@ -3,7 +3,7 @@
 
 document.write("<div class='menuContainer' align='center'>");
 document.write("<table><tr>");
-document.write("<td><a href='http://www.ldgcd.com/'>LDGCBR</a></td>");
+document.write("<td><a href='http://www.ldgcb.com/'>LDGCBR</a></td>");
 document.write("<td><a href='/home/philf/Data/Bell Ringers/Eastern Branch Website/Eastern/eastern/index.html'>HOME</a></td>");
 document.write("<td><a href='/home/philf/Data/Bell Ringers/Eastern Branch Website/Eastern/eastern/Pages/News/News_2025/News_2025.html'>NEWS</a></td>");
 document.write("<td><a href='/home/philf/Data/Bell Ringers/Eastern Branch Website/Eastern/eastern/Pages/Events/Events.html'>EVENTS</a></td>");
