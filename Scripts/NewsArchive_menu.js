@@ -4,7 +4,7 @@
 document.write("<div class='ArchiveMenu' align='center'>");
 document.write("<table width='50'>");
 
-
+document.write("<tr><td><a href='../News_2026/News_2026.html'>2026</a></td></tr>");
 document.write("<tr><td><a href='../News_2025/News_2025.html'>2025</a></td></tr>");
 document.write("<tr><td><a href='../News_2024/News_2024.html'>2024</a></td></tr>");
 document.write("<tr><td><a href='../News_2023/News_2023.html'>2023</a></td></tr>");
